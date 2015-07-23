@@ -20,6 +20,15 @@ namespace InheritanceCar
 
             //call the helper method printCarDetails
             printCarDetails(myCar);
+           
+            Truck myTruck = new Truck();
+            myTruck.Make = "Ford";
+            myTruck.Model = "F950";
+            myTruck.Color = "Blue";
+            myTruck.Year = 1998;
+            myTruck.TowingCapcity = 1200;
+
+            printCarDetails(myTruck);
             Console.ReadLine();
         }
 
@@ -46,5 +55,10 @@ namespace InheritanceCar
                 this.Color,
                 this.Year);
         }
+    }
+
+    class Truck : Car
+    {
+        public int TowingCapcity { get; set; }
     }
 }

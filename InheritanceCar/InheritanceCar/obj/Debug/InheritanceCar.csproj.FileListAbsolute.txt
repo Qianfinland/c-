@@ -4,3 +4,9 @@ c:\users\qianfi\documents\visual studio 2013\Projects\InheritanceCar\Inheritance
 c:\users\qianfi\documents\visual studio 2013\Projects\InheritanceCar\InheritanceCar\obj\Debug\InheritanceCar.csprojResolveAssemblyReference.cache
 c:\users\qianfi\documents\visual studio 2013\Projects\InheritanceCar\InheritanceCar\obj\Debug\InheritanceCar.exe
 c:\users\qianfi\documents\visual studio 2013\Projects\InheritanceCar\InheritanceCar\obj\Debug\InheritanceCar.pdb
+C:\Users\qianfi\Documents\Visual Studio 2013\Projects\selfstudy\InheritanceCar\InheritanceCar\bin\Debug\InheritanceCar.exe.config
+C:\Users\qianfi\Documents\Visual Studio 2013\Projects\selfstudy\InheritanceCar\InheritanceCar\obj\Debug\InheritanceCar.exe
+C:\Users\qianfi\Documents\Visual Studio 2013\Projects\selfstudy\InheritanceCar\InheritanceCar\obj\Debug\InheritanceCar.pdb
+C:\Users\qianfi\Documents\Visual Studio 2013\Projects\selfstudy\InheritanceCar\InheritanceCar\bin\Debug\InheritanceCar.exe
+C:\Users\qianfi\Documents\Visual Studio 2013\Projects\selfstudy\InheritanceCar\InheritanceCar\bin\Debug\InheritanceCar.pdb
+C:\Users\qianfi\Documents\Visual Studio 2013\Projects\selfstudy\InheritanceCar\InheritanceCar\obj\Debug\InheritanceCar.csprojResolveAssemblyReference.cache
